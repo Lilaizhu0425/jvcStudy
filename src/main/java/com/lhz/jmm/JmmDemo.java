@@ -8,6 +8,8 @@ public class JmmDemo {
     public static void main(String[] args) {
         System.out.println("hellgit4");
         System.out.println("maxtex");
+        System.out.println("hot-fex");
+        System.out.println("hellgit4");
 
     }
 }
