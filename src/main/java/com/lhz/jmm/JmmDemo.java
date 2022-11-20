@@ -7,6 +7,7 @@ public class JmmDemo {
      */
     public static void main(String[] args) {
         System.out.println("hellgit4");
+        System.out.println("maxtex");
 
     }
 }
