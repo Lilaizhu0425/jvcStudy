@@ -6,6 +6,7 @@ public class JmmDemo {
      * 对共享的变量的写入何时以及如何变为另外一个线程可见 关键技术都是围绕多线程的原子性、可见性、有序性展开的
      */
     public static void main(String[] args) {
+        System.out.println("hellgit4");
 
     }
 }
